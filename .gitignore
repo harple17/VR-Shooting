@@ -10,10 +10,12 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 /Packages
+/UserSettings
 /Assets/*
 !Scripts
 !Scenes
 !Resources
+/Assets/*.meta
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
